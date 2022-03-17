@@ -1,2 +1,1 @@
-# don't accidentally commit our MaxMind GeoIP config
-GeoIP.conf
+test/*.pem
