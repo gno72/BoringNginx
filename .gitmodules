@@ -1,10 +1,5 @@
 [submodule "nginx"]
 	path = nginx
 	url = ./nginx/
-[submodule "boringssl"]
-	path = boringssl
-	url = ./boringssl
-[submodule "git@github.com:amtunlimited/nginx.git"]
+[submodule "git@github.com:gno72/nginx.git"]
 	url = ./nginx/
-[submodule "git@github.com:amtunlimited/boringssl.git"]
-	url = ./boringssl/
